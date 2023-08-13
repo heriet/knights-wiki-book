@@ -30,3 +30,4 @@ PSP版ナイツ・イン・ザ・ナイトメアについては[ナイツ・イ�
 - [ナイツ・イン・ザ・ナイトメア公式](http://www.sting.co.jp/knights/)
 - [ゲーム制作ノート](http://jajanote.blog5.fc2.com/)
 - [ユグドラ旅情](http://blog.goo.ne.jp/kyoho_azemichi)
+- [GitHub: heriet/knights-wiki-book](https://github.com/heriet/knights-wiki-book)
